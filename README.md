@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a founder and technical product manager working in San Francisco, CA.
+I'm a founder, CEO and technical product manager working in Oakland, CA.
 
 - 🏗️ I’m building [@golioth](https://github.com/golioth), an IoT startup empowering hardware developers
 - 🤓 I contribute to IoT standards
