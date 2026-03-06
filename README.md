@@ -2,7 +2,7 @@
 
 I'm a founder, CEO and technical product manager working in Oakland, CA.
 
-- 🏗️ I’m building [@golioth](https://github.com/golioth), an IoT startup empowering hardware developers
+- 🏗️ I’m building [@golioth](https://github.com/golioth), an IoT platform empowering hardware developers (now part of Canonical)
 - 🤓 I contribute to IoT standards
 - 🤝 I’m looking to partner on your company's IoT project
 - 💬 Ask me about anything IoT! Protocols, hardware, cloud ifra, biz models. I'm also w/ obsessed with robots 🤖
